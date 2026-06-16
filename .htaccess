@@ -1,0 +1,16 @@
+# .htaccess
+# Protect sensitive directories
+RewriteEngine On
+RewriteRule ^includes/.*$ - [F,L]
+RewriteRule ^sql/.*$ - [F,L]
+RewriteRule ^config/.*$ - [F,L]
+
+# Prevent directory listing
+Options -Indexes
+
+# XSS and Security headers
+<IfModule mod_headers.c>
+    Header set X-XSS-Protection "1; mode=block"
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+</IfModule>
