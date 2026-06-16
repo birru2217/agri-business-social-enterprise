@@ -84,9 +84,7 @@ The platform is engineered as a dynamic, client-server web application relying e
 
 Developed as a group project for the **Advanced Web Programming (CsEg3092)** course at **Bule Hora University**, College of Computing and Informatics.
 
-*   **Beka Temesgen** (ID: 0037/16)
-*   **Atinaf Kene** (ID: 0361/16)
-*   **Lemi Wodejo** (ID: 0361/16)
-*   **Sabir Yesuf** (ID: 0347/16)
+*   **Biruk Tadesse** (ID: 0365/16)
+
 
 *Submitted to: Mr. Adugna H. | Academic Year: 2018/2026*
