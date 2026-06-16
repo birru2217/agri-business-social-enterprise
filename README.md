@@ -22,7 +22,7 @@ A structural paradigm shift in digital agriculture. This enterprise-grade web pl
 ## 📥 Database Download & Quick Setup
 To deploy this system locally, download the required SQL database schema below:
 
-[![Download SQL Database](https://img.shields.io/badge/Download-MySQL_Database_Schema-2ea44f?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/birru2217/agri-business-social-enterprise/raw/main/sql/agri_social_db.sql)
+[![Download SQL Database](https://img.shields.io/badge/Download-MySQL_Database_Schema-2ea44f?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/birru2217/agri-business-social-enterprise/raw/main/sql/schema.sql)
 
 ---
 
