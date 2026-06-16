@@ -9,7 +9,13 @@ A structural paradigm shift in digital agriculture. This enterprise-grade web pl
 ---
 
 ## 📸 System Previews
-![Homepage](screenshots/home.png) *(Note: Add screenshots to a `screenshots` folder)*
+<img width="952" height="482" alt="Screenshot 2026-06-16 061500" src="https://github.com/user-attachments/assets/02ebe9de-5fbe-4ff1-b8e5-411b507c2224" />
+<img width="959" height="463" alt="Screenshot 2026-06-16 061523" src="https://github.com/user-attachments/assets/ea439bc3-3aff-42ca-b536-ed3a1c51523e" />
+<img width="956" height="473" alt="Screenshot 2026-06-16 061534" src="https://github.com/user-attachments/assets/6261513f-00d7-4f92-b225-8fa13e2e650d" />
+<img width="959" height="466" alt="Screenshot 2026-06-16 061554" src="https://github.com/user-attachments/assets/d67d2fb6-efe4-4b06-86de-8bf263470e58" />
+<img width="958" height="476" alt="Screenshot 2026-06-16 061609" src="https://github.com/user-attachments/assets/d1819492-8451-4bb9-811e-8e823c53214c" />
+<img width="959" height="367" alt="Screenshot 2026-06-16 061623" src="https://github.com/user-attachments/assets/32bf723d-c580-4aaf-a882-edca05195d7c" />
+<img width="590" height="476" alt="Screenshot 2026-06-16 062354" src="https://github.com/user-attachments/assets/3a3637d2-f138-4550-9c5e-f13895d4f0e0" />
 
 ---
 
