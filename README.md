@@ -1,2 +1,86 @@
-# agri-business-social-enterprise
-A digital agriculture enterprise platform connecting farmers, investors, and buyers to eliminate middlemen and enable social crowdfunding.
+# 🌱 Agri-Business Social Enterprise Platform
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Version](https://img.shields.io/badge/Version-1.0-blue)
+![Tech Stack](https://img.shields.io/badge/Tech_Stack-PHP_|_PDO_|_MySQL-orange)
+
+A structural paradigm shift in digital agriculture. This enterprise-grade web platform replaces opaque, manual agricultural coordination loops with transparent digital networks. It connects smallholder farmers, social investors, and direct consumers to eliminate predatory middlemen and drive localized wealth creation.
+
+---
+
+## 📸 System Previews
+![Homepage](screenshots/home.png) *(Note: Add screenshots to a `screenshots` folder)*
+
+---
+
+## 📥 Database Download & Quick Setup
+To deploy this system locally, download the required SQL database schema below:
+
+[![Download SQL Database](https://img.shields.io/badge/Download-MySQL_Database_Schema-2ea44f?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/birru2217/agri-business-social-enterprise/raw/main/sql/agri_social_db.sql)
+
+---
+
+## 🎯 Core Objectives & Solutions
+
+Traditional agricultural networks suffer from geographical isolation, asymmetrical information, and the "black box" investment dilemma. This platform solves these through:
+1. **Disintermediation:** Direct Peer-to-Peer architecture bypassing brokers.
+2. **Social Investment:** Micro-financing infrastructure allowing urban citizens to safely fund rural farm projects.
+3. **Platform Transparency:** Auditable transaction ledgers and symmetric market pricing data.
+4. **Reduction in Post-Harvest Waste:** Real-time visibility into market demand.
+
+---
+
+## 👥 Multi-Role Architecture (Scope)
+
+The platform is built on a strictly isolated, role-based access control (RBAC) system:
+
+### 🧑‍🌾 1. Farmers (The Supply Layer)
+- **Digital Storefront:** Catalog harvests, set competitive pricing, and manage real-time stock availability.
+- **Project Profiles:** Create structured proposals for upcoming seasonal plantings to attract external capital.
+
+### 💼 2. Investors (The Capital Injection Layer)
+- **Project Auditing:** Browse active farming profiles and evaluate geographic risk factors.
+- **Impact Tracking:** Fund specific crop cycles and monitor physical milestones directly from their dashboard.
+
+### 🛒 3. Customers (The Demand Layer)
+- **Marketplace Discovery:** Filter and browse fresh agricultural products by location, price, and harvest date.
+- **Traceability:** View explicit trace-history metrics showing exactly where and when food was harvested.
+
+### 🛡️ 4. Administrators (The Governance Layer)
+- **Verification Moderation:** Vet local farmers and authenticate incoming investors.
+- **Marketplace Oversight:** Monitor active listings to prevent fraudulent schemes and ensure system stability.
+
+---
+
+## 🛠️ System Architecture & Technologies
+
+The platform is engineered as a dynamic, client-server web application relying exclusively on highly accessible, industry-standard web tools.
+
+*   **Frontend:** HTML5, CSS3, JavaScript, Bootstrap (Responsive, mobile-friendly design).
+*   **Backend Logic:** PHP (Procedural Logic Engine with Secure Session Handling).
+*   **Database:** MySQL (Structured relational database using **PDO Data Interchange Layer** to prevent SQL injection).
+*   **Security:** Cryptographic password hashing (Bcrypt), input sanitization, and strict RBAC isolated views.
+
+---
+
+## ⚙️ Local Installation Guide
+
+1. Clone this repository into your local server environment (e.g., `wamp64/www/` or `xampp/htdocs/`).
+2. Rename the project folder to `agri_business`.
+3. Open **phpMyAdmin** and create a database named **`agri_social_db`**.
+4. Import the downloaded `agri_social_db.sql` file into the new database.
+5. *(Optional)* Configure your database credentials in `includes/db.php` if you are using a custom MySQL password.
+6. Launch the application via `http://localhost/agri_business`.
+
+---
+
+## 👨‍💻 Development Team
+
+Developed as a group project for the **Advanced Web Programming (CsEg3092)** course at **Bule Hora University**, College of Computing and Informatics.
+
+*   **Beka Temesgen** (ID: 0037/16)
+*   **Atinaf Kene** (ID: 0361/16)
+*   **Lemi Wodejo** (ID: 0361/16)
+*   **Sabir Yesuf** (ID: 0347/16)
+
+*Submitted to: Mr. Adugna H. | Academic Year: 2018/2026*
